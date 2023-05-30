@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Laboratoire trois</string>
+    <string name="next">SUIVANT</string>
+    <string name="enter_your_name">Entrez votre nom</string>
+    <string name="don_t_call_me_that">NE M\'APPELLE PAS ÇA</string>
+    <string name="thank_you">MERCI</string>
+    <string name="welcome">Bienvenue</string>
+</resources>
